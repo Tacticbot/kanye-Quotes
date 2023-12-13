@@ -19,18 +19,21 @@ Kanye Says is a fun project that retrieves random quotes from the [Kanye.rest AP
 ```bash
 git clone https://github.com/<username>/kanye-says.git
 cd kanye-says
+```
 
 ### Install Dependencies
 
 ```bash
 pip install requests
+```
 
 ### Usage
+
 #### Run the application
 
 ```bash
 python kanye_says.py
-
+```
 Click the Kanye Image to fetch a new quote
 
 
