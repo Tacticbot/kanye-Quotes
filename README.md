@@ -17,8 +17,8 @@ Kanye Says is a fun project that retrieves random quotes from the [Kanye.rest AP
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<username>/kanye-says.git
-cd kanye-says
+git clone https://github.com/Tacticbot/kanye-Quotes.git
+cd kanye-Quotes
 ```
 
 ### Install Dependencies
@@ -32,7 +32,7 @@ pip install requests
 #### Run the application
 
 ```bash
-python kanye_says.py
+python main.py
 ```
 Click the Kanye Image to fetch a new quote
 
